@@ -1,3 +1,32 @@
+## 2018-06-06 
+
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/tiller/tags/) 
+
+
+1. [gcr.io/google-containers/coredns:1.1.3__arm_linux updated](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/) 
+
+
+1. [gcr.io/google-containers/coredns:1.1.3 updated](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/) 
+
+
+1. [gcr.io/google-containers/coredns:1.1.3__arm64_linux updated](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/) 
+
+
+1. [gcr.io/google-containers/coredns:1.1.3__ppc64le_linux updated](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/) 
+
+
+1. [gcr.io/google-containers/coredns:1.1.3__s390x_linux updated](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/) 
+
+
+1. [gcr.io/google-containers/coredns:1.1.3__amd64_linux updated](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/) 
+
+
+1. [gcr.io/google-containers/gke-mpi-api-server:dev updated](https://hub.docker.com/r/anjia0532/google-containers.gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google-containers/gke-mpi-metadata-server:dev updated](https://hub.docker.com/r/anjia0532/google-containers.gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-06-05 
 
 1. [gcr.io/google-containers/coredns:1.1.3__s390x_linux updated](https://hub.docker.com/r/anjia0532/coredns/tags/) 
