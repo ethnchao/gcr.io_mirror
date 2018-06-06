@@ -1,5 +1,40 @@
 ## 2018-06-06 
 
+1. [gcr.io/k8s-minikube/localkube-dind-image:b13e002a90a9c78a42b3fc65f4ec6487530d4b41 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:3f35ca4bdadb4e51842244cd50e71fd4956160fe updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:6655f5250e3b53f4a348afa3b791b4ff0bc2fe67 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:b13e002a90a9c78a42b3fc65f4ec6487530d4b41 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:3f35ca4bdadb4e51842244cd50e71fd4956160fe updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:6655f5250e3b53f4a348afa3b791b4ff0bc2fe67 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-image:cb29d68d670f4e73e7efef94136dfbe09e81c5c6 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-image:b13e002a90a9c78a42b3fc65f4ec6487530d4b41 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-image:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
+
+
+## 2018-06-06 
+
 1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/tiller/tags/) 
 
 
