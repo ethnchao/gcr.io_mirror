@@ -41,9 +41,8 @@ eval $(docker images | grep anjia0532 | awk '{print $1":"$2}' |awk -F'[/.:]' '{p
 [Changelog](./CHANGES.md)
 -------
 
-<<<<<<< HEAD
-Total of 4's gcr.io/tf-on-k8s-dogfood/* images
 
+Total of 4's gcr.io/tf-on-k8s-dogfood/* images
 -------
 
 
@@ -57,8 +56,8 @@ Total of 4's gcr.io/tf-on-k8s-dogfood/* images
 
 [gcr.io/tf-on-k8s-dogfood/tf_sample_gpu √](https://hub.docker.com/r/anjia0532/tf-on-k8s-dogfood.tf_sample_gpu/tags/)
 
-Total of 3's gcr.io/kubernetes-helm/* images
 
+Total of 3's gcr.io/kubernetes-helm/* images
 -------
 
 
