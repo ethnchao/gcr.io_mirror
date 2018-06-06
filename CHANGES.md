@@ -1,5 +1,10 @@
 ## 2018-06-06 
 
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+
+
+## 2018-06-06 
+
 1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/tiller/tags/) 
 
 

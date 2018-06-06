@@ -1,8 +1,57 @@
+[gcr.io/kubernetes-helm/expandybird](https://hub.docker.com/r//kubernetes-helm.expandybird/tags/) 
+
+----
+[gcr.io/kubernetes-helm/expandybird:latest √](https://hub.docker.com/r//kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/expandybird:git-abd1a5c √](https://hub.docker.com/r//kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/expandybird:git-668948f √](https://hub.docker.com/r//kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/expandybird:git-4d7c681 √](https://hub.docker.com/r//kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/manager](https://hub.docker.com/r//kubernetes-helm.manager/tags/) 
+
+----
+[gcr.io/kubernetes-helm/manager:latest √](https://hub.docker.com/r//kubernetes-helm.manager/tags/)
+
+[gcr.io/kubernetes-helm/manager:git-abd1a5c √](https://hub.docker.com/r//kubernetes-helm.manager/tags/)
+
+[gcr.io/kubernetes-helm/expandybird](https://hub.docker.com/r/anjia0532/kubernetes-helm.expandybird/tags/) 
+
+----
+[gcr.io/kubernetes-helm/expandybird:latest √](https://hub.docker.com/r/anjia0532/kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/expandybird:git-abd1a5c √](https://hub.docker.com/r/anjia0532/kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/expandybird:git-668948f √](https://hub.docker.com/r/anjia0532/kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/expandybird:git-4d7c681 √](https://hub.docker.com/r/anjia0532/kubernetes-helm.expandybird/tags/)
+
+[gcr.io/kubernetes-helm/manager](https://hub.docker.com/r/anjia0532/kubernetes-helm.manager/tags/) 
+
+----
+[gcr.io/kubernetes-helm/manager:latest √](https://hub.docker.com/r/anjia0532/kubernetes-helm.manager/tags/)
+
+[gcr.io/kubernetes-helm/manager:git-abd1a5c √](https://hub.docker.com/r/anjia0532/kubernetes-helm.manager/tags/)
+
+[gcr.io/kubernetes-helm/manager:git-668948f √](https://hub.docker.com/r/anjia0532/kubernetes-helm.manager/tags/)
+
+[gcr.io/kubernetes-helm/manager:git-4d7c681 √](https://hub.docker.com/r/anjia0532/kubernetes-helm.manager/tags/)
+
+[gcr.io/kubernetes-helm/resourcifier](https://hub.docker.com/r/anjia0532/kubernetes-helm.resourcifier/tags/) 
+
+----
+[gcr.io/kubernetes-helm/resourcifier:latest √](https://hub.docker.com/r/anjia0532/kubernetes-helm.resourcifier/tags/)
+
+[gcr.io/kubernetes-helm/resourcifier:git-abd1a5c √](https://hub.docker.com/r/anjia0532/kubernetes-helm.resourcifier/tags/)
+
+[gcr.io/kubernetes-helm/resourcifier:git-668948f √](https://hub.docker.com/r/anjia0532/kubernetes-helm.resourcifier/tags/)
+
+[gcr.io/kubernetes-helm/resourcifier:git-4d7c681 √](https://hub.docker.com/r/anjia0532/kubernetes-helm.resourcifier/tags/)
+
 [gcr.io/kubernetes-helm/tiller](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
 
 ----
-**[gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)**
-
 [gcr.io/kubernetes-helm/tiller:v2.9.1 √](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
 
 [gcr.io/kubernetes-helm/tiller:v2.9.0-rc5 √](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
