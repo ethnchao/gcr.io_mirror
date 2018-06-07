@@ -32,6 +32,16 @@
 
 1. [gcr.io/k8s-minikube/localkube-image:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
 
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+
+
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+
+
+## 2018-06-06 
+
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+
 
 ## 2018-06-06 
 
