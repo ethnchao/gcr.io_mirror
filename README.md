@@ -98,3 +98,5 @@ Total of 17's gcr.io/spinnaker-marketplace/* images
 
 [gcr.io/spinnaker-marketplace/spinnaker-monitoring-daemon √](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.spinnaker-monitoring-daemon/tags/)
 
+[gcr.io/spinnaker-marketplace/spinnaker-monitoring-daemon √](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.spinnaker-monitoring-daemon/tags/)
+
