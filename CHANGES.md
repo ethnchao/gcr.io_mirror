@@ -2957,6 +2957,175 @@
 
 
 1. [gcr.io/google-containers/kube-apiserver:v1.11.0-beta.2 updated](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver/tags/) 
+=======
+## 2018-06-07 
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180605022805 updated](https://hub.docker.com/r//spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/deck:2.3.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/front50:0.11.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/gradle_cache:latest updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180606030505 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/deck:2.3.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/front50:0.11.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/gradle_cache:latest updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180606030505 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/deck:2.3.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/front50:0.11.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/gradle_cache:latest updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180606030505 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/orca:0.12.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/orca:0.12.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/) 
+
+
+## 2018-06-07 
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180605022805 updated](https://hub.docker.com/r//spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/deck:2.3.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/front50:0.11.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/gradle_cache:latest updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180606030505 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/deck:2.3.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/front50:0.11.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/gradle_cache:latest updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180606030505 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/deck:2.3.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/front50:0.11.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/gradle_cache:latest updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180606030505 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/orca:0.12.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/) 
+
+
+1. [gcr.io/spinnaker-marketplace/orca:0.12.0-20180606022805 updated](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/) 
+
+
+## 2018-06-06 
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:b13e002a90a9c78a42b3fc65f4ec6487530d4b41 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:3f35ca4bdadb4e51842244cd50e71fd4956160fe updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:6655f5250e3b53f4a348afa3b791b4ff0bc2fe67 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:b13e002a90a9c78a42b3fc65f4ec6487530d4b41 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:3f35ca4bdadb4e51842244cd50e71fd4956160fe updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:6655f5250e3b53f4a348afa3b791b4ff0bc2fe67 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-dind-image-devshell:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-image:cb29d68d670f4e73e7efef94136dfbe09e81c5c6 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-image:b13e002a90a9c78a42b3fc65f4ec6487530d4b41 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
+
+
+1. [gcr.io/k8s-minikube/localkube-image:27a9889e4968a9bd2d38f0ea8fba44f8ea4fcab5 updated](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/) 
+
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+
+
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+
+
+## 2018-06-06 
+
+1. [gcr.io/kubernetes-helm/tiller:canary updated](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/) 
+>>>>>>> 3421960b340a0c091de6743438dd7ccb04e001b4
 
 
 ## 2018-06-06 
