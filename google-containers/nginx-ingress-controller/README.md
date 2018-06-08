@@ -1,4 +1,4 @@
-[gcr.io/google-containers/nginx-ingress-controller](https://hub.docker.com/r/anjia0532/nginx-ingress-controller/tags/) 
+[gcr.io/google-containers/nginx-ingress-controller](https://hub.docker.com/r/anjia0532/google-containers.nginx-ingress-controller/tags/) 
 
 ----
 [gcr.io/google-containers/nginx-ingress-controller:0.9.0-beta.8 √](https://hub.docker.com/r/anjia0532/google-containers.nginx-ingress-controller/tags/)

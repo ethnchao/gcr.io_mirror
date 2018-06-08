@@ -1,4 +1,4 @@
-[gcr.io/google-containers/kube-haproxy](https://hub.docker.com/r/anjia0532/kube-haproxy/tags/) 
+[gcr.io/google-containers/kube-haproxy](https://hub.docker.com/r/anjia0532/google-containers.kube-haproxy/tags/) 
 
 ----
 [gcr.io/google-containers/kube-haproxy:latest √](https://hub.docker.com/r/anjia0532/google-containers.kube-haproxy/tags/)

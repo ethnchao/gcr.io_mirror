@@ -1,4 +1,4 @@
-[gcr.io/google-containers/kubectl](https://hub.docker.com/r/anjia0532/kubectl/tags/) 
+[gcr.io/google-containers/kubectl](https://hub.docker.com/r/anjia0532/google-containers.kubectl/tags/) 
 
 ----
 [gcr.io/google-containers/kubectl:v1.0.7 √](https://hub.docker.com/r/anjia0532/google-containers.kubectl/tags/)

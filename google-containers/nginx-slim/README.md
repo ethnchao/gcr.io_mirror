@@ -1,4 +1,4 @@
-[gcr.io/google-containers/nginx-slim](https://hub.docker.com/r/anjia0532/nginx-slim/tags/) 
+[gcr.io/google-containers/nginx-slim](https://hub.docker.com/r/anjia0532/google-containers.nginx-slim/tags/) 
 
 ----
 [gcr.io/google-containers/nginx-slim:0.9 √](https://hub.docker.com/r/anjia0532/google-containers.nginx-slim/tags/)

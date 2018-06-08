@@ -1,4 +1,4 @@
-[gcr.io/google-containers/ubuntu-slim-ppc64le](https://hub.docker.com/r/anjia0532/ubuntu-slim-ppc64le/tags/) 
+[gcr.io/google-containers/ubuntu-slim-ppc64le](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-slim-ppc64le/tags/) 
 
 ----
 [gcr.io/google-containers/ubuntu-slim-ppc64le:0.9 √](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-slim-ppc64le/tags/)

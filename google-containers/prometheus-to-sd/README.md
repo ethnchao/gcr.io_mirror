@@ -1,4 +1,4 @@
-[gcr.io/google-containers/prometheus-to-sd](https://hub.docker.com/r/anjia0532/prometheus-to-sd/tags/) 
+[gcr.io/google-containers/prometheus-to-sd](https://hub.docker.com/r/anjia0532/google-containers.prometheus-to-sd/tags/) 
 
 ----
 [gcr.io/google-containers/prometheus-to-sd:v0.2.6 √](https://hub.docker.com/r/anjia0532/google-containers.prometheus-to-sd/tags/)

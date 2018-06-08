@@ -1,4 +1,4 @@
-[gcr.io/google-containers/kubedns-arm](https://hub.docker.com/r/anjia0532/kubedns-arm/tags/) 
+[gcr.io/google-containers/kubedns-arm](https://hub.docker.com/r/anjia0532/google-containers.kubedns-arm/tags/) 
 
 ----
 [gcr.io/google-containers/kubedns-arm:1.9 √](https://hub.docker.com/r/anjia0532/google-containers.kubedns-arm/tags/)

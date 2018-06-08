@@ -1,4 +1,4 @@
-[gcr.io/google-containers/kubernetes-dashboard-amd64](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-amd64/tags/) 
+[gcr.io/google-containers/kubernetes-dashboard-amd64](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-amd64/tags/) 
 
 ----
 [gcr.io/google-containers/kubernetes-dashboard-amd64:v1.8.3 √](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-amd64/tags/)

@@ -1,6 +1,8 @@
-[gcr.io/google-containers/kube-apiserver-ppc64le](https://hub.docker.com/r/anjia0532/kube-apiserver-ppc64le/tags/) 
+[gcr.io/google-containers/kube-apiserver-ppc64le](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/) 
 
 ----
+**[gcr.io/google-containers/kube-apiserver-ppc64le:v1.11.0-beta.2 updated](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)**
+
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.9.9-beta.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.9.8-beta.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
@@ -327,6 +329,8 @@
 
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.12.0-alpha.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
+[gcr.io/google-containers/kube-apiserver-ppc64le:v1.11.0-beta.2 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
+
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.11.0-beta.1 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.11.0-beta.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
@@ -337,7 +341,11 @@
 
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.11.0-alpha.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
+[gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.5-beta.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
+
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.4-beta.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
+
+[gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.4 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.3-beta.0 √](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 

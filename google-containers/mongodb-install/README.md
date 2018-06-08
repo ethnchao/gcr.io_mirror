@@ -1,4 +1,4 @@
-[gcr.io/google-containers/mongodb-install](https://hub.docker.com/r/anjia0532/mongodb-install/tags/) 
+[gcr.io/google-containers/mongodb-install](https://hub.docker.com/r/anjia0532/google-containers.mongodb-install/tags/) 
 
 ----
 [gcr.io/google-containers/mongodb-install:0.6 √](https://hub.docker.com/r/anjia0532/google-containers.mongodb-install/tags/)

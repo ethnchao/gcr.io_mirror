@@ -1,4 +1,4 @@
-[gcr.io/google-containers/addon-resizer](https://hub.docker.com/r/anjia0532/addon-resizer/tags/) 
+[gcr.io/google-containers/addon-resizer](https://hub.docker.com/r/anjia0532/google-containers.addon-resizer/tags/) 
 
 ----
 [gcr.io/google-containers/addon-resizer:2.1 √](https://hub.docker.com/r/anjia0532/google-containers.addon-resizer/tags/)

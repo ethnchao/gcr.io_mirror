@@ -1,4 +1,4 @@
-[gcr.io/google-containers/nvidia-gpu-device-plugin](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+[gcr.io/google-containers/nvidia-gpu-device-plugin](https://hub.docker.com/r/anjia0532/google-containers.nvidia-gpu-device-plugin/tags/) 
 
 ----
 [gcr.io/google-containers/nvidia-gpu-device-plugin:fe721d768bab68913c80d37946151ed4eb800e03 √](https://hub.docker.com/r/anjia0532/google-containers.nvidia-gpu-device-plugin/tags/)

@@ -1,4 +1,4 @@
-[gcr.io/google-containers/kubernetes-dashboard-s390x](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-s390x/tags/) 
+[gcr.io/google-containers/kubernetes-dashboard-s390x](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-s390x/tags/) 
 
 ----
 [gcr.io/google-containers/kubernetes-dashboard-s390x:v1.8.3 √](https://hub.docker.com/r/anjia0532/google-containers.kubernetes-dashboard-s390x/tags/)

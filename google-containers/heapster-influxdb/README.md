@@ -1,4 +1,4 @@
-[gcr.io/google-containers/heapster-influxdb](https://hub.docker.com/r/anjia0532/heapster-influxdb/tags/) 
+[gcr.io/google-containers/heapster-influxdb](https://hub.docker.com/r/anjia0532/google-containers.heapster-influxdb/tags/) 
 
 ----
 [gcr.io/google-containers/heapster-influxdb:v0.13.0 √](https://hub.docker.com/r/anjia0532/google-containers.heapster-influxdb/tags/)

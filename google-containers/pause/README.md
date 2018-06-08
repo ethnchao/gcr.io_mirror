@@ -1,4 +1,4 @@
-[gcr.io/google-containers/pause](https://hub.docker.com/r/anjia0532/pause/tags/) 
+[gcr.io/google-containers/pause](https://hub.docker.com/r/anjia0532/google-containers.pause/tags/) 
 
 ----
 [gcr.io/google-containers/pause:test2 √](https://hub.docker.com/r/anjia0532/google-containers.pause/tags/)

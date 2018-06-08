@@ -1,4 +1,4 @@
-[gcr.io/google-containers/ubuntu-nvidia-driver-installer](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+[gcr.io/google-containers/ubuntu-nvidia-driver-installer](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-nvidia-driver-installer/tags/) 
 
 ----
 [gcr.io/google-containers/ubuntu-nvidia-driver-installer:fe721d768bab68913c80d37946151ed4eb800e03 √](https://hub.docker.com/r/anjia0532/google-containers.ubuntu-nvidia-driver-installer/tags/)

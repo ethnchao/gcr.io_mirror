@@ -1,4 +1,4 @@
-[gcr.io/google-containers/zeppelin](https://hub.docker.com/r/anjia0532/zeppelin/tags/) 
+[gcr.io/google-containers/zeppelin](https://hub.docker.com/r/anjia0532/google-containers.zeppelin/tags/) 
 
 ----
 [gcr.io/google-containers/zeppelin:v0.5.6_v1 √](https://hub.docker.com/r/anjia0532/google-containers.zeppelin/tags/)

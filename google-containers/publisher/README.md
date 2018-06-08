@@ -1,4 +1,4 @@
-[gcr.io/google-containers/publisher](https://hub.docker.com/r/anjia0532/publisher/tags/) 
+[gcr.io/google-containers/publisher](https://hub.docker.com/r/anjia0532/google-containers.publisher/tags/) 
 
 ----
 [gcr.io/google-containers/publisher:2017-07-12-45c2cf9f79 √](https://hub.docker.com/r/anjia0532/google-containers.publisher/tags/)
