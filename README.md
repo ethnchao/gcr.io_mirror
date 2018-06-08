@@ -1250,3 +1250,11 @@ Total of 445's gcr.io/google-containers/* images
 
 [gcr.io/google-containers/zookeeper-install-3.5.0-alpha √](https://hub.docker.com/r/anjia0532/google-containers.zookeeper-install-3.5.0-alpha/tags/)
 
+[gcr.io/google-containers/zeppelin √](https://hub.docker.com/r/anjia0532/google-containers.zeppelin/tags/)
+
+[gcr.io/google-containers/zeppelin-proxy √](https://hub.docker.com/r/anjia0532/google-containers.zeppelin-proxy/tags/)
+
+[gcr.io/google-containers/zookeeper-install √](https://hub.docker.com/r/anjia0532/google-containers.zookeeper-install/tags/)
+
+[gcr.io/google-containers/zookeeper-install-3.5.0-alpha √](https://hub.docker.com/r/anjia0532/google-containers.zookeeper-install-3.5.0-alpha/tags/)
+
